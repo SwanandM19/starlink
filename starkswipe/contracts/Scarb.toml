@@ -1,0 +1,10 @@
+[package]
+name = "starkswipe"
+version = "0.1.0"
+edition = "2023_11"
+
+[dependencies]
+starknet = "2.4.0"
+
+[tool.scarb]
+starknet-foundry = "0.12.0"
